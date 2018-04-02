@@ -1,6 +1,9 @@
 # Android Drawable View 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20Drawable%20View-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1510) ![Maven Central](https://img.shields.io/maven-central/v/me.panavtec/drawableview.svg)
 
+[![Release](https://jitpack.io/v/urispmts/DrawableView.svg)]
+(https://jitpack.io/urispmts/DrawableView)
+
 ![Logo](art/drawabledroid.png)
 
 ## Sample app:
